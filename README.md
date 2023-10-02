@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/brunorreiss">
+  <a href="https://github.com/gregzr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunorreiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorreiss&layout=compact&langs_count=16&theme=dark"/> 
   </a>
