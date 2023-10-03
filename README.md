@@ -1,8 +1,8 @@
-## Olá, Terraqueos! Tudo bem? 
-## Sejam bem vindos ao meu perfil do gitHub!
+## Seja bem vindo ao meu perfil do gitHub!
+# Aqui vou compartilhando meu aprendizado e projetos pessoais
 
 - 🌱 Estudo Python, Machine Learning e Banco de Dados.
-- 📫 Meu e-mail de contato é: bruno.rreiss11@gmail.com
+- 📫 Meu e-mail de contato é: gregore.rodrigues2010@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
