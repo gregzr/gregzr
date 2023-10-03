@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/gregzr">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gregzr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregzr&layout=compact&langs_count=16&theme=dark"/> 
+    <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregzr&theme=dark"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -18,7 +18,8 @@
   <img align="center" alt="Bruno-Numpy" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
   <img align="center" alt="Bruno-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Bruno-MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img  align="center" alt="Bruno-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img  align
+="center" alt="Bruno-Jupyter" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img  align="center" alt="Bruno-GitLab" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img  align="center" alt="Bruno-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img  align="center" alt="Bruno-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
@@ -28,8 +29,8 @@
 ###
 <div>
   <div>
-  <a href="mailto:gregore.rodrigues2010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gregore-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gregore.rodrigues2010@gmail.com"><img height = "40em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gregore-rodrigues/" target="_blank"><img height = "40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/brunorreiss/brunorreiss/blob/output/github-contribution-grid-snake.svg)
