@@ -1,5 +1,5 @@
-## Seja bem vindo ao meu perfil do gitHub!
-# Aqui vou compartilhando meu aprendizado e projetos pessoais
+# Seja bem vindo ao meu perfil do gitHub!
+## Aqui vou compartilhando meu aprendizado e projetos pessoais
 
 - 🌱 Estudo Python, Machine Learning e Banco de Dados.
 - 📫 Meu e-mail de contato é: gregore.rodrigues2010@gmail.com
